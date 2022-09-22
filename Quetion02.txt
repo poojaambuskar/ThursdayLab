@@ -1,0 +1,7 @@
+Write a program to accept a number From the user and check if a given number is Pallindrom Or Not.
+
+import java.util.*;
+import java .scanner.*;
+ class Demo
+ public static void main (string args[]);
+ 
